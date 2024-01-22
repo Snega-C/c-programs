@@ -14,4 +14,12 @@ int main()
     ft=i/12;
      printf("\n The feet is:%0.2f",ft);
     return 0;
+    /*output
+Enter the distance between two cities:40
+
+ The Km is:40.00
+ The meter is:40000.00
+ The Cm is:4000000.00
+ The inches is:1574803.13
+ The feet is:131233.59*/
 }
