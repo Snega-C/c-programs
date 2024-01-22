@@ -17,5 +17,12 @@ int main()
   circumference_circle=2*3.14*r_c;
   printf("\nThe circumference of the circle is %0.2f",circumference_circle);
   return 0;
-
+  /*output
+Enter a length of the rectangle:5
+Enter a breadth of the rectangle:7
+Enter a radius of the circle:5
+The Area of the Rectangle is 35.00
+The Perimeter of the Rectangle is 24.00
+The Area of the circle is 78.50
+The circumference of the circle is 31.40*/
 }
