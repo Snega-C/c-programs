@@ -25,3 +25,19 @@ int main()
     }
     return 0;
 }
+/*output 
+Enter the name:SNEGA
+
+Enter the age:18
+SNEGA is 18 ,Eligible for voting to apply
+------------------------------------------
+Enter the name:SNEGA
+
+Enter the age:12
+SNEGA is 12 ,Not eligible for voting
+-------------------------------------------
+Enter the name:SNEGA
+
+Enter the age:23
+SNEGA is 23 ,Eligible for voting
+*/
