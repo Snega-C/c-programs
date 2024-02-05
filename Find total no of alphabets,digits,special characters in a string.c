@@ -19,3 +19,10 @@ int main()
     printf("\nTotal no of Alphabets : %d",s);
     return 0;
 }
+/*output
+Enter a string : snega @15
+
+Total no of Alphabets : 5
+Total no of Digits : 2
+Total no of Alphabets : 2
+*/
