@@ -4,7 +4,7 @@ int main()
     char name[10];
     int age;
     printf("Enter the name:");
-    scanf("%s",name);
+    scanf("%s",&name);
     printf("\nEnter the age:");
     scanf("%d",&age);
     if(age==0)
